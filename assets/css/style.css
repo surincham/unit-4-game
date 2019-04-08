@@ -1,0 +1,39 @@
+header{
+    background-color: rgb(250, 217, 27);
+    height: 100px;
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+.container{
+    background-color: antiquewhite;
+    width: 75%;
+    margin: auto;
+}
+
+.container2{
+    margin: auto;
+    width: 75%;
+}
+.container3{
+    margin: auto;
+    text-align: center;
+    width: 75%;
+}
+
+.randomNumber{
+    background-color: rgb(37, 206, 88);
+    width: 30px;
+}
+
+.score{
+    background-color: rgb(89, 199, 243);
+    width: 30px;
+}
+
+.container4{
+    background-color: rgb(247, 154, 34);
+    width: 75%;
+    margin: auto;
+}
